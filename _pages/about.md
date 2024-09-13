@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 $$ About me$$
+I am a fourth year PHD student of SJTU. 
+My research interests is mainly about 2D/3D perception.
 
