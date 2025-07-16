@@ -9,7 +9,7 @@ venue: 'NIPS'
 # paperurl: 'https://arxiv.org/abs/2409.09350'
 # citation: 'xxxx.'
 authors: Jiabao Wang∗, **Zhaojiang Liu∗**, Qiang Meng, Liujiang Yan, Ke Wang, Jie Yang, Wei Liu, Qibin Hou, Ming-Ming Cheng
-
+code: 'https://github.com/jbwang1997/OPUS.git'
 ---
 
 
