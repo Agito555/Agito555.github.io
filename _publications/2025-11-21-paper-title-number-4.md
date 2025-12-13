@@ -8,6 +8,6 @@ date: 2025-11-21
 venue: 'RA-L'
 # paperurl: 'https://arxiv.org/abs/2409.09350'
 # citation: 'xxxx.'
-authors: Zhaojiang Liu, Zhipeng Zhang , Qiang Meng , Yishu Wang , Dianmin Zhang , Liujiang Yan , Ke Wang , Zhonglong Zheng , Jie Yang and Wei Liu
+authors: **Zhaojiang Liu**, Zhipeng Zhang, Qiang Meng, Yishu Wang, Dianmin Zhang, Liujiang Yan, Ke Wang, Zhonglong Zheng, Jie Yang, Wei Liu
 code: 
 ---
